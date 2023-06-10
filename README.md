@@ -1,5 +1,5 @@
 <!-- Título -->
-# Utilizando Branchs
+# Utilizando Branches
 
 ***Conteúdo da Aula:***
 
